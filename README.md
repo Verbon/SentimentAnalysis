@@ -1,5 +1,5 @@
 # SentimentAnalysis
 SentimentAnalysis lab.
 
-#How to run
+# How to run
 Use Jupyter Notebook to run .ipynb file.
